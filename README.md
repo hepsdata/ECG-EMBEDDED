@@ -1,8 +1,8 @@
 # 심전도(ECG) 무선 모니터링 시스템
 
 ## 프로젝트 개요
-본 프로젝트는 심전도(ECG) 센서를 통해 심장의 전기적 활동 데이터를 수집하고, 아두이노를 이용하여 ADC로 변환한 뒤 ZigBee 기반의 무선 통신으로 LCD에 실시간으로 데이터를 전송하여 모니터링합니다. 이 시스템은 환자의 이동성을 제한하지 않으면서 지속적인 심장 건강 모니터링을 가능하게 합니다.
-[ECG Live Test Demonstration](https://youtu.be/pJQoYbiy9Ag)
+본 프로젝트는 심전도(ECG) 센서를 통해 심장의 전기적 활동 데이터를 수집하고, 아두이노를 이용하여 ADC로 변환한 뒤 ZigBee 기반의 무선 통신으로 LCD에 실시간으로 데이터를 전송하여 모니터링합니다. 이 시스템은 환자의 이동성을 제한하지 않으면서 지속적인 심장 건강 모니터링을 가능하게 합니다.<br>
+- YouTube Live Test [ECG Live Test Demonstration](https://youtu.be/pJQoYbiy9Ag)
 ## 구성요소 및 기능
 - [Arduino Uno (R3)](https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us) - 2개
 - [XBee ZigBee TH(S2C) - XB24CZ7WIT-004](https://www.devicemart.co.kr/goods/view?no=1327243) - 2개

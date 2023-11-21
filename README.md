@@ -16,7 +16,33 @@
 - 전송받은 데이터는 LCD 화면에 실시간으로 시각화됩니다.
 
 ## 설치 및 사용법
-(설치 과정, 라이브러리 설치, 코드 업로드 방법 등을 자세히 설명합니다.)
+
+### 필요한 라이브러리 설치하기
+
+프로젝트를 위해서는 다음 라이브러리가 필요합니다:
+
+1. **SPFD5408 Library**: Arduino TFT LCD 스크린을 제어하기 위한 라이브러리입니다.
+   - GitHub 페이지: [SPFD5408 Library](https://github.com/JoaoLopesF/SPFD5408)
+   - 설치 방법:
+     ```
+     git clone https://github.com/JoaoLopesF/SPFD5408.git
+     ```
+   - 또는 Arduino IDE의 라이브러리 관리자를 이용하여 설치할 수 있습니다.
+
+2. **SD Library for Arduino**: SD 카드와 상호작용하기 위한 라이브러리입니다.
+   - GitHub 페이지: [SD Library for Arduino](https://github.com/arduino-libraries/SD)
+   - 설치 방법:
+     ```
+     git clone https://github.com/arduino-libraries/SD.git
+     ```
+   - 또는 Arduino IDE의 라이브러리 관리자를 이용하여 설치할 수 있습니다.
+
+### 처음 사용시 설정
+
+- 아두이노 보드와 연결한 후, LCD 화면이 정상적으로 작동하는지 확인합니다.
+- SD 카드가 제대로 포맷되었고, 아두이노 보드의 SD 카드 슬롯에 올바르게 삽입되었는지 확인합니다.
+- 시리얼 모니터를 통해 시스템 로그와 상태 메시지를 확인할 수 있습니다.
+
 
 ## 부가적인 기능
 - **SETUP Button**: 새로운 측정을 시작하고 기존 데이터를 CSV 파일로 저장합니다.

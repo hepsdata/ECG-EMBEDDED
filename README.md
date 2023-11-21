@@ -5,10 +5,10 @@
 
 ## 구성요소 및 기능
 - [Arduino Uno (R3)](https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us) - 2개
-- [XBee ZigBee TH(S2C) - XB24CZ7WIT-004](https://www.digi.com/products/models/xb24cz7wit-004) - 2개
-- [아두이노 호환 XBee 쉴드 XBee Shield 3.0](https://www.adafruit.com/product/126) - 2개
-- [TFT LCD 쉴드 arduino 2.4inch Color Touch TFT LCD Shield](https://www.sparkfun.com/products/retired/12757) - 2개
-- [PSL-iECG2(소형 2채널 심전도 및 심박 측정 모듈)](http://www.pulsesensor.com) - 2개
+- [XBee ZigBee TH(S2C) - XB24CZ7WIT-004](https://www.devicemart.co.kr/goods/view?no=1327243) - 2개
+- [아두이노 호환 XBee 쉴드 XBee Shield 3.0](https://www.devicemart.co.kr/goods/view?no=31025) - 2개
+- [TFT LCD 쉴드 arduino 2.4inch Color Touch TFT LCD Shield](https://www.devicemart.co.kr/goods/view?no=1377405)) - 2개
+- [PSL-iECG2(소형 2채널 심전도 및 심박 측정 모듈)](https://www.devicemart.co.kr/goods/view?no=1278024) - 2개
 
 ## 시스템 작동 원리
 - PSL-ECG2와 Arduino를 연결하여 0 ~ 3.3V 사이의 ECG 전압 데이터를 획득합니다.

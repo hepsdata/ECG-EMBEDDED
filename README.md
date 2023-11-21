@@ -4,7 +4,7 @@
 본 프로젝트는 심전도(ECG) 센서를 통해 심장의 전기적 활동 데이터를 수집하고, 아두이노를 이용하여 ADC로 변환한 뒤 ZigBee 기반의 무선 통신으로 LCD에 실시간으로 데이터를 전송하여 모니터링합니다. 이 시스템은 환자의 이동성을 제한하지 않으면서 지속적인 심장 건강 모니터링을 가능하게 합니다.
 
 ## 구성요소 및 기능
-- [Arduino Uno (R3)](https://store.arduino.cc/usa/arduino-uno-rev3) - 2개
+- [Arduino Uno (R3)](https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us) - 2개
 - [XBee ZigBee TH(S2C) - XB24CZ7WIT-004](https://www.digi.com/products/models/xb24cz7wit-004) - 2개
 - [아두이노 호환 XBee 쉴드 XBee Shield 3.0](https://www.adafruit.com/product/126) - 2개
 - [TFT LCD 쉴드 arduino 2.4inch Color Touch TFT LCD Shield](https://www.sparkfun.com/products/retired/12757) - 2개
